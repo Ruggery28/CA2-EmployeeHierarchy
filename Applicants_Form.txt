@@ -1,0 +1,41 @@
+EmployeeID,FirstName,LastName,Email,Department,ManagerType,JobTitle,Branch
+ER001,Aoife,Murphy,aoife.murphy@emeraldrow.example,Womenswear,Associate,Sales Assistant,Dublin
+ER002,Cian,O'Brien,cian.obrien@emeraldrow.example,Electronics,Team Lead,Electronics Team Lead,Cork
+ER003,Niamh,Kelly,niamh.kelly@emeraldrow.example,Human Resources,Department Manager,HR Manager,Dublin
+ER004,Sean,Walsh,sean.walsh@emeraldrow.example,Logistics,Associate,Warehouse Operative,Dublin
+ER005,Roisin,McCarthy,roisin.mccarthy@emeraldrow.example,Beauty and Fragrance,Assistant Manager,Beauty Assistant Manager,Galway
+ER006,Conor,Byrne,conor.byrne@emeraldrow.example,Menswear,Department Manager,Menswear Manager,Dublin
+ER007,Ciara,Ryan,ciara.ryan@emeraldrow.example,Customer Service,Associate,Customer Service Advisor,Limerick
+ER008,Padraig,O'Sullivan,padraig.osullivan@emeraldrow.example,Finance,Senior Manager,Finance Controller,Dublin
+ER009,Saoirse,Doyle,saoirse.doyle@emeraldrow.example,Home and Living,Associate,Sales Assistant,Cork
+ER010,Darragh,Gallagher,darragh.gallagher@emeraldrow.example,Logistics,Team Lead,Warehouse Team Lead,Dublin
+ER011,Eimear,Brennan,eimear.brennan@emeraldrow.example,Womenswear,Assistant Manager,Womenswear Assistant Manager,Dublin
+ER012,Fionn,Doherty,fionn.doherty@emeraldrow.example,Electronics,Associate,Technical Advisor,Galway
+ER013,Grainne,Lynch,grainne.lynch@emeraldrow.example,Customer Service,Team Lead,Customer Service Team Lead,Limerick
+ER014,Oisin,Quinn,oisin.quinn@emeraldrow.example,Menswear,Associate,Sales Assistant,Cork
+ER015,Sinead,Nolan,sinead.nolan@emeraldrow.example,Human Resources,Associate,HR Administrator,Dublin
+ER016,Tadhg,Fitzgerald,tadhg.fitzgerald@emeraldrow.example,Home and Living,Department Manager,Home and Living Manager,Cork
+ER017,Maeve,Healy,maeve.healy@emeraldrow.example,Beauty and Fragrance,Associate,Beauty Consultant,Dublin
+ER018,Declan,Moore,declan.moore@emeraldrow.example,Electronics,Department Manager,Electronics Manager,Dublin
+ER019,Orla,Kavanagh,orla.kavanagh@emeraldrow.example,Womenswear,Team Lead,Womenswear Team Lead,Galway
+ER020,Eoin,Daly,eoin.daly@emeraldrow.example,Finance,Associate,Payroll Clerk,Dublin
+ER021,Clodagh,Burke,clodagh.burke@emeraldrow.example,Customer Service,Department Manager,Customer Service Manager,Dublin
+ER022,Rory,Kennedy,rory.kennedy@emeraldrow.example,Logistics,Senior Manager,Head of Logistics,Dublin
+ER023,Aisling,Power,aisling.power@emeraldrow.example,Womenswear,Department Manager,Womenswear Manager,Dublin
+ER024,Cathal,Mulligan,cathal.mulligan@emeraldrow.example,Menswear,Associate,Sales Assistant,Limerick
+ER025,Ailbhe,Hughes,ailbhe.hughes@emeraldrow.example,Beauty and Fragrance,Team Lead,Beauty Team Lead,Dublin
+ER026,Mairead,Connolly,mairead.connolly@emeraldrow.example,Store Operations,Store Director,Store Director,Dublin
+ER027,Cormac,Hayes,cormac.hayes@emeraldrow.example,Home and Living,Associate,Visual Merchandiser,Dublin
+ER028,Deirdre,Carroll,deirdre.carroll@emeraldrow.example,Finance,Assistant Manager,Assistant Finance Manager,Dublin
+ER029,Eamon,Nugent,eamon.nugent@emeraldrow.example,Store Operations,Senior Manager,Senior Operations Manager,Dublin
+ER030,Fiadh,Lawlor,fiadh.lawlor@emeraldrow.example,Customer Service,Associate,Customer Service Advisor,Cork
+ER031,Gearoid,Hennessy,gearoid.hennessy@emeraldrow.example,Logistics,Associate,Stock Controller,Limerick
+ER032,Helena,Maguire,helena.maguire@emeraldrow.example,Human Resources,Senior Manager,Head of People,Dublin
+ER033,Keith,Murphy,keith.murphy@emeraldrow.example,Electronics,Associate,Sales Assistant,Dublin
+ER034,Laoise,Brady,laoise.brady@emeraldrow.example,Menswear,Team Lead,Menswear Team Lead,Dublin
+ER035,Malachy,Dunne,malachy.dunne@emeraldrow.example,Home and Living,Team Lead,Home and Living Team Lead,Galway
+ER036,Nuala,O'Connor,nuala.oconnor@emeraldrow.example,Store Operations,Assistant Manager,Store Duty Manager,Dublin
+ER037,Peadar,Regan,peadar.regan@emeraldrow.example,Finance,Associate,Accounts Assistant,Cork
+ER038,Sorcha,McGrath,sorcha.mcgrath@emeraldrow.example,Beauty and Fragrance,Department Manager,Beauty Manager,Dublin
+ER039,Ultan,Costello,ultan.costello@emeraldrow.example,Electronics,Assistant Manager,Electronics Assistant Manager,Dublin
+ER040,Aoife,Kelly,aoife.kelly@emeraldrow.example,Customer Service,Associate,Customer Service Advisor,Galway
