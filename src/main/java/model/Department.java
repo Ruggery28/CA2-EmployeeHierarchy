@@ -40,6 +40,7 @@ public enum Department {
         return label;
     }
     
+    //optional holds a Department type, and return the type.of if exists or empty if doesnt exist.
     public static Optional<Department> fromLabel(String label) {
         String cleanedDepartment = label.trim();
         for (Department dep : values()) {

@@ -38,6 +38,7 @@ public enum ManagerType {
         return label;
     }
 
+    //optional holds a Manager type, and return the type.of if exists or empty if doesnt exist.
     public static Optional<ManagerType> fromLabel(String label) {
         String cleanTitle = label.trim();
         for (ManagerType title : values()) {
