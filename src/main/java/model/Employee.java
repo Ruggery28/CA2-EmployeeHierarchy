@@ -69,7 +69,7 @@ public class Employee {
     
     @Override
     public String toString(){
-        return firstName + " | " + lastName + " | " + department;
+        return firstName + " " + lastName + " | " + managerType + " | " + department;
     }
     
     
