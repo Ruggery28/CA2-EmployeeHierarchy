@@ -6,6 +6,7 @@ package employeehierarchyca2;
 import java.io.IOException;
 import java.util.List;
 import model.Employee;
+import service.BinarySearcher;
 import service.FileLoader;
 import service.MergeSorter;
 
@@ -74,5 +75,8 @@ public class EmployeeHierarchyCA2 {
         List<Employee> sorted = MergeSorter.mergeSort(FileLoader.loadEmployees("Applicants_Form.txt"));
         System.out.println(sorted.get(0).getFullName() + " ... " + sorted.get(sorted.size() - 1).getFullName());
 
+        //testing binary search:
+        System.out.println(BinarySearcher.findByName(sorted, "cian o'brien"));
+        System.out.println(BinarySearcher.findByName(sorted, "Nobody Here"));
     }
 }
