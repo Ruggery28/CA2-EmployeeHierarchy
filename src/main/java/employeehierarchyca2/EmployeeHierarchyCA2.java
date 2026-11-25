@@ -6,6 +6,7 @@ package employeehierarchyca2;
 import java.io.IOException;
 import java.util.List;
 import model.Employee;
+import model.EmployeeTree;
 import service.BinarySearcher;
 import service.FileLoader;
 import service.MergeSorter;
@@ -78,5 +79,11 @@ public class EmployeeHierarchyCA2 {
         //testing binary search:
         System.out.println(BinarySearcher.findByName(sorted, "cian o'brien"));
         System.out.println(BinarySearcher.findByName(sorted, "Nobody Here"));
+
+        EmployeeTree tree = new EmployeeTree();
+        for (Employee e : MergeSorter.mergeSort(sorted, Employee.BY_RANK_THEN_NAME)) {
+            tree.insert(e);
+        }
+        System.out.println(tree.countNodes() + " nodes, height " + tree.height());
     }
 }
